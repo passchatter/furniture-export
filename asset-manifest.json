@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/furniture-export/static/css/main.58b6d825.css",
+    "main.js": "/furniture-export/static/js/main.c7554ba2.js",
+    "static/media/galery12.jpg": "/furniture-export/static/media/galery12.e9d916e1d2b78b38e791.jpg",
+    "static/media/header2.jpg": "/furniture-export/static/media/header2.6f4261fc6cb84641b55a.jpg",
+    "static/media/header3.jpg": "/furniture-export/static/media/header3.68c66b23d0fe88ae17f8.jpg",
+    "static/media/header1.jpg": "/furniture-export/static/media/header1.9a1d9ab1f39f4b95432c.jpg",
+    "static/media/about3.jpg": "/furniture-export/static/media/about3.bc2939b3c1e6f78a8c9e.jpg",
+    "static/media/background.jpg": "/furniture-export/static/media/background.cc551c47641502fc1460.jpg",
+    "static/media/iklan.png": "/furniture-export/static/media/iklan.712609160a9b496401b0.png",
+    "static/media/whatapp.png": "/furniture-export/static/media/whatapp.30071c46f4eca0783173.png",
+    "static/media/galery8.jpeg": "/furniture-export/static/media/galery8.0be37064dd2b62aedd79.jpeg",
+    "static/media/blog2.jpeg": "/furniture-export/static/media/blog2.22beb25aa23a233b88b7.jpeg",
+    "static/media/galery1.jpeg": "/furniture-export/static/media/galery1.27f00d3ceb6dd757dee4.jpeg",
+    "static/media/blog3.jpeg": "/furniture-export/static/media/blog3.2a7ce5e2fa21a0e53529.jpeg",
+    "static/media/galery2.jpeg": "/furniture-export/static/media/galery2.9797e6c4830a59def95c.jpeg",
+    "static/media/galery5.jpeg": "/furniture-export/static/media/galery5.6d6019235d1f638aaba0.jpeg",
+    "static/media/galery9.jpeg": "/furniture-export/static/media/galery9.80f2e84566b5026cbfb5.jpeg",
+    "static/media/about2.jpeg": "/furniture-export/static/media/about2.28c33366e52b44c71df4.jpeg",
+    "static/media/about1.jpeg": "/furniture-export/static/media/about1.9d34ebc9ecbe7dd78036.jpeg",
+    "static/media/galery4.jpeg": "/furniture-export/static/media/galery4.9dda35873327640fc701.jpeg",
+    "static/media/produkk2.jpeg": "/furniture-export/static/media/produkk2.f720d39085e831034f8a.jpeg",
+    "static/media/produkk3.jpeg": "/furniture-export/static/media/produkk3.750c4555fd7d96fd473b.jpeg",
+    "static/media/galery7.jpeg": "/furniture-export/static/media/galery7.6e1340903f186182aca5.jpeg",
+    "static/media/galery6.jpg": "/furniture-export/static/media/galery6.a3cbdb17cfa44d38ba6e.jpg",
+    "static/media/blog1.jpeg": "/furniture-export/static/media/blog1.35f462045f8afde327ea.jpeg",
+    "static/media/produkk1.jpeg": "/furniture-export/static/media/produkk1.569ea968cc246001a947.jpeg",
+    "index.html": "/furniture-export/index.html",
+    "main.58b6d825.css.map": "/furniture-export/static/css/main.58b6d825.css.map",
+    "main.c7554ba2.js.map": "/furniture-export/static/js/main.c7554ba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58b6d825.css",
+    "static/js/main.c7554ba2.js"
+  ]
+}
